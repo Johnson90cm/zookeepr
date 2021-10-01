@@ -126,6 +126,51 @@
         "hungry"
       ],
       "id": "12"
+    },
+    {
+      "name": "Colton",
+      "species": "Human",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "13"
+    },
+    {
+      "name": "Ashley",
+      "species": "sexy Human",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "14"
+    },
+    {
+      "name": "asdf",
+      "species": "asdf",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "15"
+    },
+    {
+      "name": "zxsvzxcv",
+      "species": "zxcvzxcv",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "16"
+    },
+    {
+      "name": "dfghjfghjfghj",
+      "species": "fghjfghjfghj",
+      "diet": "folivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "17"
     }
   ]
 }
